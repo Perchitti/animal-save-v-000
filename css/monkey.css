@@ -13,6 +13,7 @@ html {
 @media screen only and (min-width: 406px and max-width: 1170px) {
   #monkey {
     position: absolute;
-    top:0;
+    left: 0;
+    top:550px;
   }
 }
